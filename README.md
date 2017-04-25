@@ -1,6 +1,6 @@
 # test
 
-first sentence.
+first.
 second
 
 - my name is peter.
